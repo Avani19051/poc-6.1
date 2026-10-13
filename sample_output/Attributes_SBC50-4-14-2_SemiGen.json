@@ -1,0 +1,14 @@
+{
+  "MPN": "SBC50-4-14-2",
+  "Manufacturer": "SemiGen",
+  "Attribute Set-1": {
+    "Capacitance": "4.0 pF",
+    "Voltage": "50 VDC",
+    "Current": "1.0 µA"
+  },
+  "Attribute Set-2": {
+    "Length": "0.035 ±0.005 in (0.889 ±0.127 mm)",
+    "Width": "0.012 max in (0.305 max mm)",
+    "Height": "0.004 ±0.002 in (0.102 ±0.051 mm)"
+  }
+}
